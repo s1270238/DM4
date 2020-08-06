@@ -24,7 +24,7 @@ int main(){
 
 	printf(“Heads: %d, Tails: %d\n”, heads, tails);
 	
-	printf(“you won\n”);
+	printf(“%s won\n”, str);
 	
 	return 0;
 }
