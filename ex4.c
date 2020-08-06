@@ -18,6 +18,8 @@ int main(){
 }
 
 	printf(“Heads: %d, Tails: %d\n”, heads, tails);
-
+	
+	printf(“you won\n”);
+	
 	return 0;
 }
