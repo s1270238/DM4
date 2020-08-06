@@ -3,6 +3,11 @@
 
 int main(){
 	int i, num, heads=0, tails=0;
+	
+	char str[8];
+	pritnf(“あんた誰?”);
+	scanf(“%s”, str);
+	printf(“ハロー、%s\n”, str)
 
 	printf(“Tossing a coin. . .\n”);
 
